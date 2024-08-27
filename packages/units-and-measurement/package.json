@@ -1,13 +1,9 @@
 {
   "name": "@tahmidazam/uam",
   "description": "An extensible TypeScript library for labeling numeric quantities with physical dimensions, enabling locale-aware unit formatting and conversion.",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "version": "0.0.1",
-  "private": false,
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tahmidazam/units-and-measurement/"
-  },
+  "repository": "https://github.com/tahmidazam/units-and-measurement/",
   "author": {
     "name": "Tahmid Azam",
     "email": "tahmid_azam@icloud.com",
